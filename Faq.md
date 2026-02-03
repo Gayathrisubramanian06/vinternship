@@ -108,6 +108,7 @@ Initially, try to get your query resolved from the FAQ and ViSakha. Check the Br
 ViSakha: https://sakha.vicharanashala.ai/
 
 Email **vinternship@vicharanashala.zohodesk.in**.  
+Mention your Name, Cohort name and Internship ID (If applicable)
 Responses are provided **within 2 hours** between **9:00 AM and 9:00 PM**.
 Any question submitted beyond 9 PM will be answered the next day.
 
@@ -117,9 +118,12 @@ In the subject line, mention: "Attention Please – Follow-up on Ticket #[Origin
 This ticket will be escalated to our Mentors Team, who will reach out to you for a voice call discussion and try to resolve the issue directly.
 
 **4.3 If my concern still isn’t addressed, how do I escalate further?**  
-After 48 hours of your first ticket (and after raising a follow-up), you can escalate the matter via email to the Internship Sponsor, with CC to Prof. Sudarshan Iyengar directly with the following recipients in CC:
+After 48 hours of your first ticket (and after raising a follow-up), you can escalate the matter via email to the Internship Sponsor, with CC to Prof. Sudarshan Iyengar directly with the following recipients in CC: 
+  
   ->Your department’s faculty reference
+  
   ->Your department HOD
+  
   ->The VLED Team at dled@iitrpr.ac.in
   
 **4.4 Is this process mandatory for all issues?**  
